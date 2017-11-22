@@ -1,0 +1,3 @@
+junit: osgi.enroute.junit.wrapper
+
+enroute.base.api: osgi.enroute.base.api
